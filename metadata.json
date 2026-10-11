@@ -1,0 +1,6 @@
+{
+  "name": "CS2 Match Predictor",
+  "description": "Интерактивный предиктор и симулятор матчей Counter-Strike 2 на основе рейтинга VRS с симуляцией карт и расчетом вероятностей.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
